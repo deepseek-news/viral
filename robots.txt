@@ -1,0 +1,4 @@
+
+User-agent: *
+Allow: /
+Sitemap: https://deepseek-news.github.io/viral/sitemap.xml
